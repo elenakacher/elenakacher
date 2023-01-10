@@ -15,7 +15,8 @@ Preparation for the ISTQB certification exam <br><br> <u>Certificate </u>: ISTQB
   </br>
 
 ## Pet-project
-[![petProject](https://github.com/elenakacher/Project)]
+<a target="_blank" href="https://github.com/elenakacher/Project">https://github.com/elenakacher/Project</a>
+
 
 
 ## Tech profile
