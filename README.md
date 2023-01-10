@@ -1,6 +1,6 @@
 ### Hello everybody, 
 
-I'm a ISTQB certified QA Engineer from 2021 and and for the last two years I am studying this area of IT.
+I'm a ISTQB certified QA Engineer from 2021 and for the last two years I am studying this area of IT.
 <table width="100%" border='0'>
    <tr> 
     <td width="20%" valign="bottom"><img src="assets\Nure.jpg" width="60%" height="60%"></td><td valign="middle">Kharkiv National University of Radioelectronics<br>Faculty of Computer Science<br><br><u>Diploma</u>: Analytics Engineer of Computer
