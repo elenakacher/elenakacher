@@ -34,6 +34,5 @@ Preparation for the ISTQB certification exam <br><br> <u>Certificate </u>: ISTQB
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=LinkedIn&logoColor=black)](https://www.linkedin.com/in/olenakacher/)
-
 [![Telegram](https://img.shields.io/badge/-Telegram-green?style=for-the-badge&logo=Telegram&logoColor=black)](https://t.me/olenakacher)
 
