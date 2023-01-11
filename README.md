@@ -5,7 +5,7 @@
 - How to reach me **kacheren961@gmail.com**
 
 - I speak Russian (native), Ukrainisch (native), Deutsch (C1), English (A2 - B1)
-- 
+
 <table width="100%" border='0'>
    <tr> 
     <td width="20%" valign="bottom"><img src="assets\Nure.jpg" width="60%" height="60%"></td><td valign="middle">Kharkiv National University of Radioelectronics<br>Faculty of Computer Science<br><br><u>Diploma</u>: Analytics Engineer of Computer
